@@ -1,0 +1,8 @@
+# Build output
+build/
+
+# Generated TensorRT engines
+*.engine
+
+# Leftover empty directory
+convert_to_tensorrt/
